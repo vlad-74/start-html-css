@@ -1,6 +1,24 @@
+.row{
+  background: #000; 
+}
 .col, .col-3, .col-4, .col-6, .col-8, .col-9, .col-10, .col-12{
-    background: #000;
-    border: 1px solid white;
+    background:blue;
     color: white;
     text-align: center;
+}
+
+.header{
+    padding: 0 20px;
+}
+.wrap{
+    padding: 0 80px;
+} 
+.bot-menu-top{
+    padding: 0 80px;
+}
+.bot-menu-bot{
+    padding: 0 80px;
+}
+.footer2{
+    padding: 0 80px;
 }
